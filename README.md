@@ -1,6 +1,4 @@
 # Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-### NAME:M.PAVITHRA
-### REG NO:212222100032
 
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
